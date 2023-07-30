@@ -13,3 +13,15 @@ li {
     margin-left: 100px;
     list-style-type: square;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color:blue;
+}
+
+ul {
+    background-color: yellow;
+}
