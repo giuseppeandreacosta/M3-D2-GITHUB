@@ -1,0 +1,15 @@
+*{margin: 0;
+padding: 0;}
+
+h1 {color: red;}
+
+ul  {
+    background-color: aquamarine;
+    
+}
+
+li {
+    
+    margin-left: 100px;
+    list-style-type: square;
+}
